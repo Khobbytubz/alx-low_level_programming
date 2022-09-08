@@ -2,10 +2,9 @@
 
 
 /**
- *main - Entry point
- * 
- * 
- *Return: Always 0 (success)
+ * nain - Entry point
+ *
+ * Return: Always 0 (for success)
  */
 int main(void)
 {
