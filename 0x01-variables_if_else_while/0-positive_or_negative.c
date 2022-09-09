@@ -3,10 +3,11 @@
 #include <stdlib.h>
 /**
  * main - Entry level
- * Description: assign a random number to the variable n each time it is executed
+ * Description: assign a random number to the variable n
+ * each time it is executed
  * Return: always 0 (Pass)
  */
-int main (void)
+int main(void)
 {
 	int n;
 
