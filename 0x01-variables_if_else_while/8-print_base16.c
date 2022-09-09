@@ -1,10 +1,10 @@
-#include <stdio.h>                                                                                                                    
-#include <time.h>                                                                                                                     
+#include <stdio.h>
+#include <time.h>
 #include <stdlib.h>
-/**                                                                                                                                   
- * main - Entry level                                                                                                                 
- * Description: prints all the numbers of base 16 in lowercase                                                                        
- * Return: always 0 (pass)                                                                                                            
+/**                                                                                                                   
+ * main - Entry level                                                                          
+ * Description: prints all the numbers of base 16 in lowercase
+ * Return: always 0 (pass)
  */
 int main(void)
 {
