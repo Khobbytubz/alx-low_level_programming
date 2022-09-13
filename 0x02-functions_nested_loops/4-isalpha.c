@@ -2,6 +2,7 @@
 
 /**
  * _isalpha - Returns 1 if c is a letter,
+ * @c: An inpur character
  * lowercase or uppercase
  * Return: 1 or 0 otherwise.
  */
