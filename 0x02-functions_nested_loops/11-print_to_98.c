@@ -4,7 +4,7 @@
 /**
  * print_to_98 - check main
  * @n: A input integer
- * Description:  function that prints all natural numbers 
+ * Description:  function that prints all natural numbers
  * from n to 98, followed by a new line
  * Return: Nothing.
  */
