@@ -1,6 +1,5 @@
 #include <unistd.h>
 /**
- * main - Entry level
  * Description:
  * _putchar - writes the character c to stdout
  * @c: the character to be print
@@ -10,5 +9,5 @@
  */
 int _putchar(char c)
 {
-	return (0);
+	return (write(1, &c, 1));
 }
